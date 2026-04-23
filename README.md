@@ -14,7 +14,7 @@ This repository is a personal library of painting brushes. Whether you're workin
 
 | Brush | Style | Best For |
 |-------|-------|----------|
-| *(coming soon)* | — | — |
+| `fur_brushes.abr` | Fur / Texture | Animal fur, hair, fluffy textures |
 
 *More brushes will be added over time. Stay tuned!*
 
